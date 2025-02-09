@@ -5,10 +5,10 @@
 I’m passionate about **self-hosting, homelab, and programming**.
 
 ### 🚀 What I Do  
-- **Fullstack Development** – Crafting **applications** with **Svelte, TypeScript, and .NET**.  
-<!--- **System Automation & Productivity** – Designing **AI-assisted planning tools** and automating workflows. -->
+- **Fullstack Development** – Crafting **applications** with **Svelte, TypeScript, and .NET**.
 - **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
 - **Smart Note-Taking** – Refining my **Emacs & Trillium** setup for structured knowledge management.  
+<!--- **System Automation & Productivity** – Designing **AI-assisted planning tools** and automating workflows. -->
 
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
