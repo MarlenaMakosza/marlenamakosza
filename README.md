@@ -25,9 +25,9 @@ I’m passionate about **self-hosting, homelab, and programming**.
 -->
 
 ### 📌 Exploring  
-✔ AI-assisted **decision-making & planning**  
-✔ High-performance, **low-power homelab solutions**
-✔ Bussiness modeling and designing app (UML, BPMN etc.)  
+🧪 AI-assisted **decision-making & planning**  
+🧪 High-performance, **low-power homelab solutions**
+🧪 Bussiness modeling and designing app (UML, BPMN etc.)  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
 <!--
