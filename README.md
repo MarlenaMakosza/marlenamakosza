@@ -12,7 +12,7 @@ I’m passionate about **self-hosting, homelab, and programming**.
 
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
-✔ **Frameworks & Tools:** Svelte, PostgreSQL, Drizzle  
+✔ **Frameworks & Tools:** Svelte, Eslint, Drizzle
 ✔ **Infrastructure:** Docker, Proxmox, Linux (Alpine, Arch, Debian)  
 ✔ **Dev Tools:** Git, Emacs, Trillium, Total Commander
 
