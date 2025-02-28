@@ -12,12 +12,12 @@ I’m passionate about **self-hosting, homelab, and programming**.
 
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
-✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle 
+✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle  
 ✔ **Infrastructure:** Docker, Proxmox, Linux (Alpine, Arch, Debian)  
 ✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm
 
 ### 🎯 What I’m Working On  
-🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders) 
+🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
 🔹 **JS-TS-tools-config-example** – example of configs for TS/JS tools
 <!--
 🔹 **Homelab Expansion** – Setting up some opensource servicesdddddddddddd
