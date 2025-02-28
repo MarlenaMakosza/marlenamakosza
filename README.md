@@ -5,19 +5,19 @@
 I’m passionate about **self-hosting, homelab, and programming**.
 
 ### 🚀 What I Do  
-- **Fullstack Development** – Crafting **applications** with **Svelte, TypeScript, and .NET**.
+- **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript**.
 - **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
 - **Smart Note-Taking** – Refining my **Emacs & Trillium** setup for structured knowledge management.  
 <!--- **System Automation & Productivity** – Designing **AI-assisted planning tools** and automating workflows. -->
 
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
-✔ **Frameworks & Tools:** Svelte, Eslint, Drizzle
+✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle 
 ✔ **Infrastructure:** Docker, Proxmox, Linux (Alpine, Arch, Debian)  
-✔ **Dev Tools:** Git, Emacs, Trillium, Total Commander
+✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm
 
 ### 🎯 What I’m Working On  
-🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)
+🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders) 
 🔹 **JS-TS-tools-config-example** – example of configs for TS/JS tools
 <!--
 🔹 **Homelab Expansion** – Setting up some opensource servicesdddddddddddd
@@ -25,9 +25,7 @@ I’m passionate about **self-hosting, homelab, and programming**.
 -->
 
 ### 📌 Exploring  
-🧪 AI-assisted **decision-making & planning**  
-🧪 High-performance, **low-power homelab solutions**
-🧪 Bussiness modeling and designing app (UML, BPMN etc.)  
+🧪 AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
 <!--
