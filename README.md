@@ -14,8 +14,8 @@ I’m passionate about **self-hosting, homelab, and programming**.
 ✔ **Languages:** TypeScript, .NET  
 ✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle  
 ✔ **Infrastructure:** Vagarnt, Docker, Proxmox, Linux (Alpine, Arch, Debian)  
-✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm, Zed
-✔ **AI Tools:** Claude Code
+✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm, Zed  
+✔ **AI Tools:** Claude Code  
 
 ### 🎯 What I’m Working On
 🔹 HOLD - **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
@@ -28,9 +28,9 @@ I’m passionate about **self-hosting, homelab, and programming**.
 -->
 
 ### 📌 Exploring
-🧪 C++ and RayLib
-🧪 Terraform and ansible to automate my homelab
-🧪 Upgrade my working setup
+🧪 C++ and RayLib  
+🧪 Terraform and ansible to automate my homelab  
+🧪 Upgrade my working setup  
 🧪 HOLD - AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
