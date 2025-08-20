@@ -13,19 +13,25 @@ I’m passionate about **self-hosting, homelab, and programming**.
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
 ✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle  
-✔ **Infrastructure:** Docker, Proxmox, Linux (Alpine, Arch, Debian)  
-✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm
+✔ **Infrastructure:** Vagarnt, Docker, Proxmox, Linux (Alpine, Arch, Debian)  
+✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm, Zed
+✔ **AI Tools:** Claude Code
 
-### 🎯 What I’m Working On  
-🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
-🔹 **JS-TS-tools-config-example** – example of configs for TS/JS tools
+### 🎯 What I’m Working On
+🔹 HOLD - **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
+🔹 HOLD - **JS-TS-tools-config-example** – example of configs for TS/JS tools
 <!--
-🔹 **Homelab Expansion** – Setting up some opensource servicesdddddddddddd
+🔹 **Student Simulator** - game like Undertale graphic
+🔹 **Project PLAG (programming languages as genus** - main thread is programming languages as character races
+🔹 **Homelab Expansion** – Setting up some opensource services
 🔹 **AI-Powered Time Management** – A tool for **task optimization and motivation tracking**
 -->
 
-### 📌 Exploring  
-🧪 AI-assisted **decision-making & planning, AI with code, prompt engineering**  
+### 📌 Exploring
+🧪 C++ and RayLib
+🧪 Terraform and ansible to automate my homelab
+🧪 Upgrade my working setup
+🧪 HOLD - AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
 <!--
