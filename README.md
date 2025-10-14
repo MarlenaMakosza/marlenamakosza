@@ -13,7 +13,7 @@ I’m passionate about **self-hosting, homelab, and programming**.
 ### 🛠 Tech Stack  
 ✔ **Languages:** TypeScript, .NET  
 ✔ **Frameworks & Tools:** Svelte, SvelteKit, Eslint, Drizzle  
-✔ **Infrastructure:** Vagarnt, Docker, Proxmox, Linux (Alpine, Arch, Debian)  
+✔ **Infrastructure:** Vagrant, Docker, Proxmox, Linux (Alpine, Arch, Debian)  
 ✔ **Dev Tools:** Git, Emacs, VSCode, WebStorm, Zed  
 ✔ **AI Tools:** Claude Code  
 
