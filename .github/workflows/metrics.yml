@@ -1,0 +1,19 @@
+name: Generate Metrics
+
+on:
+  schedule: [{cron: "0 */12 * * *"}]  # co 12h
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          # Token GitHub (z pełnym odczytem publicznych repo)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: marlenamakosza
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Warsaw
