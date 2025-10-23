@@ -44,5 +44,5 @@ I’m passionate about **self-hosting, homelab and programming**.
 <!--[![Lenerystia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenerystia)](https://github.com/Lenerystia/github-readme-stats)-->
 
 
-![GitHub Metrics](./metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
 
