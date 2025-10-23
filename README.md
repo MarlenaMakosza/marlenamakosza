@@ -2,7 +2,7 @@
 
 💻 **Software Developer | Homelab Enthusiast | Productivity Passionate**
 
-I’m passionate about **self-hosting, homelab and programming** and writing stories... but this is not the place for that.  
+I’m passionate about **self-hosting, homelab and programming**.  
 
 ### 🚀 What I Do  
 - **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Nodejs**.  
