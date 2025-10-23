@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Marlena
-UTC+2
 
 💻 **Software Developer | Homelab Enthusiast | Productivity Passionate**
 
