@@ -40,7 +40,7 @@ I’m passionate about **self-hosting, homelab and programming**.
 
 ### Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenerystia&size_weight=0.5&count_weight=0.5&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlenamakosza&size_weight=0.5&count_weight=0.5&theme=transparent)
 <!--[![Lenerystia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenerystia)](https://github.com/Lenerystia/github-readme-stats)-->
 
 
