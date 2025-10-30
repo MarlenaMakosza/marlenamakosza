@@ -4,6 +4,8 @@
 
 I’m passionate about **self-hosting, homelab and programming**.  
 
+If you’d like to see more of my work, feel free to visit my personal website 🌐 [**marlenamakosza.com**](https://marlenamakosza.com).
+
 ### 🚀 What I Do  
 - **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Nodejs**.  
 - **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
