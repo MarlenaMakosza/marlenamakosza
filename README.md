@@ -20,8 +20,8 @@ If you’d like to see more of my work, feel free to visit my personal website �
 ✔ **AI Tools:** Claude Code  
 
 ### 🎯 What I’m Working On
-🔹 **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
-🔹 **[LLM-God](https://github.com/czhou578/llm-god)** – Contributing in app "One to rule them all" for popular LLM models.  
+🔹 **[LLM-God](https://github.com/czhou578/llm-god)** – Contributing in app "One to rule them all" for popular LLM models.
+🔹 ON HOLD **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
 🔹 ON HOLD - **JS-TS-tools-config-example** – example of configs for TS/JS tools  
 <!--
 🔹 **Student Simulator** - game like Undertale graphic
@@ -31,10 +31,11 @@ If you’d like to see more of my work, feel free to visit my personal website �
 -->
 
 ### 📌 Exploring
-🧪 ON HOLD C++ and RayLib  
+🧪 Github Actions
 🧪 Terraform and ansible to automate my homelab  
 🧪 Upgrade my working setup  
 🧪 Deno  
+🧪 ON HOLD C++ and RayLib  
 🧪 ON HOLD - AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
