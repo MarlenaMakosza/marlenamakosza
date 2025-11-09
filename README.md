@@ -31,7 +31,7 @@ If you’d like to see more of my work, feel free to visit my personal website �
 -->
 
 ### 📌 Exploring
-🧪 Github Actions
+🧪 Github Actions  
 🧪 Terraform and ansible to automate my homelab  
 🧪 Upgrade my working setup  
 🧪 Deno  
