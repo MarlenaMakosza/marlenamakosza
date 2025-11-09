@@ -7,9 +7,9 @@ I’m passionate about **self-hosting, homelab and programming**.
 If you’d like to see more of my work, feel free to visit my personal website 🌐 [**marlenamakosza.com**](https://marlenamakosza.com).
 
 ### 🚀 What I Do  
-- **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Nodejs**.  
-- **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
-- **Smart Note-Taking** – Refining my **Emacs & Trillium** setup for structured knowledge management.  
+– **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Nodejs**.  
+– **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
+– **Smart Note-Taking** – Refining my **Emacs & Trillium** setup for structured knowledge management.  
 <!--- **System Automation & Productivity** – Designing **AI-assisted planning tools** and automating workflows. -->
 
 ### 🛠 Tech Stack  
@@ -21,8 +21,8 @@ If you’d like to see more of my work, feel free to visit my personal website �
 
 ### 🎯 What I’m Working On
 🔹 **[LLM-God](https://github.com/czhou578/llm-god)** – Contributing in app "One to rule them all" for popular LLM models.  
-🔹 ON HOLD **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
-🔹 ON HOLD - **JS-TS-tools-config-example** – example of configs for TS/JS tools  
+🔹 ON HOLD – **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
+🔹 ON HOLD – **JS-TS-tools-config-example** – example of configs for TS/JS tools  
 <!--
 🔹 **Student Simulator** - game like Undertale graphic
 🔹 **Project PLAG (programming languages as genus** - main thread is programming languages as character races
@@ -36,7 +36,7 @@ If you’d like to see more of my work, feel free to visit my personal website �
 🧪 Upgrade my working setup  
 🧪 Deno  
 🧪 ON HOLD C++ and RayLib  
-🧪 ON HOLD - AI-assisted **decision-making & planning, AI with code, prompt engineering**  
+🧪 ON HOLD – AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
 
