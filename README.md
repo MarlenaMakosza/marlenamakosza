@@ -36,7 +36,6 @@ If you’d like to see more of my work, feel free to visit my personal website �
 🧪 Upgrade my working setup  
 🧪 Deno  
 🧪 ON HOLD C++ and RayLib  
-🧪 ON HOLD – AI-assisted **decision-making & planning, AI with code, prompt engineering**  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
 
