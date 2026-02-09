@@ -31,10 +31,10 @@ If you’d like to see more of my work, feel free to visit my personal website �
 -->
 
 ### 📌 Exploring
-🧪 Github Actions  
 🧪 Terraform and ansible to automate my homelab  
 🧪 Upgrade my working setup  
-🧪 Deno  
+🧪 ON HOLD Github Actions  
+🧪 ON HOLD Deno  
 🧪 ON HOLD C++ and RayLib  
 <!-- ✔ **Optimizing digital workflows & productivity systems**-->
 
