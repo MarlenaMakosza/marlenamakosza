@@ -16,7 +16,7 @@ If you’d like to see more of my work, feel free to visit my personal website �
 ✔ **Languages:** TypeScript, .NET  
 ✔ **Frameworks & Tools:** Deno, Nodejs, Svelte, SvelteKit, Eslint, Drizzle  
 ✔ **Infrastructure:** Vagrant, KVM/Qemu, Docker, Proxmox, Linux (Alpine, Arch, Debian)  
-✔ **Dev Tools:** Zed, WebStorm, VSCode, Visual Studio, Git
+✔ **Dev Tools:** Zed, WebStorm, VSCode, Visual Studio, Git  
 ✔ **AI Tools:** Claude Code  
 
 ### 🎯 What I’m Working On
