@@ -21,7 +21,8 @@ If you’d like to see more of my work, feel free to visit my personal website �
 
 ### 🎯 What I’m Working On
 🔹 Surviving my studies  
-🔹 ON HOLD - **[LLM-God](https://github.com/czhou578/llm-god)** – Contributing in app "One to rule them all" for popular LLM models  
+🔹 **Dotfiles** – Perfect for disaster recovery procedures.  
+🔹 ON HOLD – **[LLM-God](https://github.com/czhou578/llm-god)** – Contributing in app "One to rule them all" for popular LLM models  
 🔹 ON HOLD – **Character relationships** – Visualizing relationships between characters (mainlny for gamemasters, writers and character builders)  
 🔹 ON HOLD – **JS-TS-tools-config-example** – example of configs for TS/JS tools  
 <!--
