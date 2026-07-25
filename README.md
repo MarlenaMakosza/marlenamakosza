@@ -1,10 +1,11 @@
-## 👋 Hi, I'm Marlena
+## 👋 Hi, I'm Marlena <img width="24" height="24" alt="GITHUB" src="https://github.com/user-attachments/assets/ac06d98e-86c4-4c0f-b441-ac2cc90dc0bc" />
+
 
 💻 **Software Developer | Homelab Enthusiast | Productivity Passionate**
 
 I’m passionate about **self-hosting, homelab and programming**.  
 
-If you’d like to see more of my work, feel free to visit my personal website 🌐 [**marlenamakosza.com**](https://marlenamakosza.com).
+If you’d like to see more of my work, feel free to visit my personal website [<img width="16" height="16" alt="favicon" src="https://github.com/user-attachments/assets/ff4a9ab1-b9ce-407a-9bf6-05cb8e046574" />](https://marlenamakosza.com) [**marlenamakosza.com**](https://marlenamakosza.com).
 
 ### 🚀 What I Do  
 – **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Nodejs**.  
