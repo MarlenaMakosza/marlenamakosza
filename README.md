@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Marlena <img width="24" height="24" alt="GITHUB" src="https://github.com/user-attachments/assets/ac06d98e-86c4-4c0f-b441-ac2cc90dc0bc" />
+## 👋 Hi, I'm Marlena
 
 
 💻 **Software Developer | Homelab Enthusiast | Productivity Passionate**
