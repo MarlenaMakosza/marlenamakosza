@@ -33,7 +33,7 @@ If you’d like to see more of my work, feel free to visit my personal website [
 📂 **[See all projects →](https://marlenamakosza.com/projects)**
 
 ### 📌 Exploring
-🧪 Terraform and Ansible to automate my homelab
+🧪 Terraform and Ansible to automate my homelab  
 🧪 KVM/Qemu as a test environment for my engineering thesis
 
 ### GitHub stats
