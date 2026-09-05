@@ -2,7 +2,7 @@
 
 💻 **Junior Software Engineer @ [ShipStation Global](https://www.shipstation.com/) | E-Commerce Student**
 
-I’m passionate about **self-hosting, homelab and programming**.
+I’m passionate about **self-hosting, homelab and programming**.  
 Currently doing a six-month internship while working on my engineering thesis.
 
 If you’d like to see more of my work, feel free to visit my personal website [<img width="16" height="16" alt="favicon" src="https://github.com/user-attachments/assets/ff4a9ab1-b9ce-407a-9bf6-05cb8e046574" />](https://marlenamakosza.com) [**marlenamakosza.com**](https://marlenamakosza.com).
