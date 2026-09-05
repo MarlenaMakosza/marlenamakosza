@@ -8,16 +8,16 @@ Currently doing a six-month internship while working on my engineering thesis.
 If you’d like to see more of my work, feel free to visit my personal website [<img width="16" height="16" alt="favicon" src="https://github.com/user-attachments/assets/ff4a9ab1-b9ce-407a-9bf6-05cb8e046574" />](https://marlenamakosza.com) [**marlenamakosza.com**](https://marlenamakosza.com).
 
 ### 🚀 What I Do
-– **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Node.js**.
-– **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.
-– **Smart Note-Taking** – Refining my **Emacs & Trilium** setup for structured knowledge management.
+– **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Node.js**.  
+– **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
+– **Smart Note-Taking** – Refining my **Emacs & Trilium** setup for structured knowledge management.  
 
 ### 🛠 Tech Stack
-✔ **Languages:** TypeScript, .NET
-✔ **Frameworks & Tools:** Deno, Node.js, Svelte, SvelteKit, ESLint, Drizzle
-✔ **Infrastructure:** Proxmox, Docker, Linux (Alpine, Arch, Debian), KVM/Qemu, Vagrant
-✔ **Dev Tools:** Zed, WebStorm, VSCode, Visual Studio, Git
-✔ **AI Tools:** Claude Code, Jcode, opencode
+✔ **Languages:** TypeScript, .NET  
+✔ **Frameworks & Tools:** Deno, Node.js, Svelte, SvelteKit, ESLint, Drizzle  
+✔ **Infrastructure:** Proxmox, Docker, Linux (Alpine, Arch, Debian), KVM/Qemu, Vagrant  
+✔ **Dev Tools:** Zed, WebStorm, VSCode, Visual Studio, Git  
+✔ **AI Tools:** Claude Code, Jcode, opencode  
 
 ### 🔨 Selected Work
 
