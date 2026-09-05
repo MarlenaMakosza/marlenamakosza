@@ -1,0 +1,13 @@
+# Markdown uses two trailing spaces as a hard line break.
+# Without this, editors strip them on save and list items collapse
+# into a single paragraph on the rendered profile page.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
