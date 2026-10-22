@@ -10,19 +10,20 @@ If you’d like to see more of my work, feel free to visit my personal website [
 ### 🚀 What I Do
 – **Fullstack Development** – Making **applications** with **Svelte, SvelteKit, TypeScript, Node.js**.  
 – **Homelab & Self-Hosting** – **Proxmox, NAS and Docker**.  
-– **Smart Note-Taking** – Refining my **Emacs & Trilium** setup for structured knowledge management.  
+– **AI Engineering** – Making **AI agents** write reliable code and running **local models** on my homelab.
 
 ### 🛠 Tech Stack
 ✔ **Languages:** TypeScript, .NET  
 ✔ **Frameworks & Tools:** Deno, Node.js, Svelte, SvelteKit, ESLint, Drizzle  
 ✔ **Infrastructure:** Proxmox, Docker, Linux (Alpine, Arch, Debian), KVM/Qemu, Vagrant  
 ✔ **Dev Tools:** Zed, WebStorm, VSCode, Visual Studio, Git  
-✔ **AI Tools:** Claude Code, Jcode, opencode  
+✔ **AI Tools:** Claude Code, OMP, Jcode, OpenCode  
 
 ### 🔨 Selected Work
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| **[Ultimate TS AI Project](https://github.com/MarlenaMakosza/Ultimate-TS-AI-project)** | Production-ready TypeScript template with a strict toolchain: type-aware ESLint, unit and Gherkin tests, mutation testing, quality gates. Made for code written by people and by AI agents | 🚀 Active |
 | **[LLM-God](https://github.com/czhou578/llm-god)** | Desktop app to prompt ChatGPT, Gemini and more at once. I'm the top human contributor after the author – [**11 merged PRs**](https://github.com/czhou578/llm-god/pulls?q=is%3Apr+author%3AMarlenaMakosza) incl. dark mode, CI builds and Copilot support | 🤝 Contributing |
 | **[Character Relationships](https://github.com/MarlenaMakosza/Character-relationships_v2)** | Visualizing relationships between characters, mainly for gamemasters, writers and character builders | 🧪 Experiment |
 | **[Dotfiles](https://github.com/MarlenaMakosza/dotfiles)** | Manjaro / KDE Wayland setup managed with chezmoi. Perfect for disaster recovery procedures | ✅ In use |
